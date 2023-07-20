@@ -1,0 +1,71 @@
+.wow-summary .cart__list {
+    display: none;
+}
+
+.wow-oredre-review .wow-summary-tfoot {
+    display: none;
+}
+
+.woocommerce-checkout .order-review-wrapper {
+    border: none;
+}
+
+.woocommerce-checkout #content .entry-content,
+.woocommerce-checkout #content .entry-content form.checkout {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* form.woocommerce-checkout label {
+    display: none;
+} */
+
+/* form.woocommerce-checkout #billing_first_name_field,
+form.woocommerce-checkout #billing_last_name_field {
+    width: 49%;
+}
+
+form.woocommerce-checkout #billing_first_name_field {
+    margin-right: 2%;
+}
+
+form.woocommerce-checkout #billing_address_1_field {
+    width: 64%;
+}
+
+form.woocommerce-checkout .woocommerce-billing-fields__field-wrapper #billing_city_field {
+    width: 66% !important; 
+}
+
+form.woocommerce-checkout #billing_postcode_field {
+    width: 32%;
+    padding-right: 0;
+    margin-right: 2%;
+}
+
+form.woocommerce-checkout #billing_building_no_field,
+form.woocommerce-checkout #billing_local_field  {
+    width: 16%;
+    margin-left: 2%;
+}
+
+form.woocommerce-checkout #billing_first_name_field .woocommerce-input-wrapper,
+form.woocommerce-checkout #billing_last_name_field .woocommerce-input-wrapper,
+form.woocommerce-checkout #billing_postcode_field .woocommerce-input-wrapper,
+form.woocommerce-checkout .woocommerce-billing-fields__field-wrapper #billing_city_field .woocommerce-input-wrapper,
+form.woocommerce-checkout #billing_country_field .woocommerce-input-wrapper {
+    width: 100%;
+}
+
+form.woocommerce-checkout #billing_address_1_field .woocommerce-input-wrapper {
+    width: 100%;
+} */
+
+.wow-checkout-card-row {
+    display: flex;
+}
+
+.card-row__wrap .product_name {
+    display: none;
+}
+

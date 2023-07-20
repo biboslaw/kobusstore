@@ -1,0 +1,16 @@
+{
+    "name": "wowcode/theme",
+    "autoload": {
+        "psr-4": {
+            "WowCode\\": "app/"
+        }
+    },
+    "config": {
+        "platform-check": false
+    },
+    "authors": [
+        {
+            "name": "sebastian"
+        }
+    ]
+}

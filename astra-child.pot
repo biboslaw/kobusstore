@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Astra Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-11 11:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: astra-child"
+
+#. Name of the theme
+msgid "Astra Child"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Astra is the fastest, fully customizable &amp; beautiful theme suitable for "
+"blogs, personal portfolios and business websites. It is very lightweight "
+"(less than 50KB on frontend) and offers unparalleled speed. Built with SEO "
+"in mind, Astra comes with schema.org code integrated so search engines will "
+"love your site. Astra offers plenty of sidebar options and widget areas "
+"giving you a full control for customizations. Furthermore, we have included "
+"special features and templates so feel free to choose any of your favorite "
+"page builder plugin to create pages flexibly. Some of the other features: # "
+"WooCommerce Ready # Responsive # Compatible with major plugins # Translation "
+"Ready # Extendible with premium addons # Regularly updated # Designed, "
+"Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a "
+"perfect base theme? Look no further. Astra is fast, fully customizable and "
+"beautiful theme!"
+msgstr ""
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr ""
+
+#: app/Views/MiniCart.php:119
+msgid "Dodaj"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpastra.com/about/"
+msgstr ""
+
+#: functions.php:131
+msgid "Komentarz do zamówienia"
+msgstr ""
+
+#: app/Controllers/WooController.php:133
+msgid "Kupon jest już używany!"
+msgstr ""
+
+#: app/Controllers/WooController.php:139
+msgid "Kupon nie istnieje!"
+msgstr ""
+
+#: app/Controllers/WooController.php:127
+msgid "Kupon został pomyślnie użyty."
+msgstr ""
+
+#: functions.php:133
+msgid ""
+"Uwagi do zamówienia, np. informacje o dostarczeniu przesyłki, prośba o "
+"wystawienie FV na firmę (wpisać NIP i adres)"
+msgstr ""
